@@ -1,3 +1,9 @@
+<!-- 
+ sototoken.sol - Ethereum Wallet
+ Author : Soto Jang (sotolabedu@gmail.com)
+ Copyright (c) Sunstar Since 2015. All Rights Reserved. See LICENSE file.
+ -->
+
 # SotoToken
 
     balances, totalSupply : 만들고자 하는 토큰의 전체갯수 ('0' 18개를 제외한 숫자, 1000개)
