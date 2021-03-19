@@ -1,3 +1,9 @@
+// 
+// sototoken.sol - Ethereum Wallet
+// Author : Soto Jang (sotolabedu@gmail.com)
+// Copyright (c) Sunstar Since 2015. All Rights Reserved. See LICENSE file.
+//
+
 pragma solidity ^0.4.18;
 
 contract Token {
